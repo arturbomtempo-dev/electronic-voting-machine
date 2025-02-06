@@ -12,6 +12,6 @@ Simulate voting in the 2022 Brazilian elections (with only four candidates for e
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): dynamicity of the page
 
 ## 📁 Project access
-You can view the hosted page by clicking [here](https://arturcolen.github.io/Electronic-voting-machine/).
+You can view the hosted page by clicking [here](https://electronic-voting-machine.vercel.app/).
 
 **Observation:** This program is designed to be accessed on computers (it is not responsive), so if it is used on mobile devices, the page layout will be misconfigured and some functions will not run.
